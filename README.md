@@ -1,1 +1,1 @@
-# Earendel_Proyect
+# Earendel_Project
