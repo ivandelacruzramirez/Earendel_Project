@@ -70,8 +70,6 @@ El modelo se compone de 14 tablas relacionadas entre sí y 2 vistas:
 El trabajo se organiza en un tablero Kanban con las fases de preproducción, prototipo VR, sistemas
 núcleo, persistencia, progresión y final, contenido, pruebas y entrega.
  
-Enlace al tablero: `ENLACE_AL_TABLERO`
- 
 ## Estado actual y próximos pasos
  
 - [x] Concepto, música y arte conceptual
